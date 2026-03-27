@@ -16,8 +16,7 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No- 212222060253
-# Name- Srijayan T
+
 # Write your code here
 
 num1 = int(input())
